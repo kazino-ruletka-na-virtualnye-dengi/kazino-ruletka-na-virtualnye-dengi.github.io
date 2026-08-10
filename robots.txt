@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-ruletka-na-virtualnye-dengi.github.io
+Sitemap: https://kazino-ruletka-na-virtualnye-dengi.github.io/sitemap.xml
